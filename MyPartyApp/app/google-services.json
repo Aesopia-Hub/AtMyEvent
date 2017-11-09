@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "685252868570",
+    "project_id": "maps-project-177610"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685252868570:android:661c22fb38d8cafe",
+        "android_client_info": {
+          "package_name": "com.example.smith.eventlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685252868570-1rqqfsgr2roia719njcvf3nsv17o8idi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrWEA8RV77M7AZFS0c7Pj7h6K0kVxzmS8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685252868570:android:2bbb6e0f6cbe7212",
+        "android_client_info": {
+          "package_name": "com.example.smith.mypartyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685252868570-1rqqfsgr2roia719njcvf3nsv17o8idi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrWEA8RV77M7AZFS0c7Pj7h6K0kVxzmS8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

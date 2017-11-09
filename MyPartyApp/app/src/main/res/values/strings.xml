@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyPartyApp</string>
+    <string name="add_content">Add Content</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="google_app_api">API KEY</string>
+    <string name="hint_Event_ID">Event ID</string>
+    <string name="hint_Username">Username</string>
+    <string name="hint_Email">Email</string>
+    <string name="hint_Password">Password</string>
+    <string name="hint_Confirm_Password">Confirm Password</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="text_login">Login</string>
+    <string name="error_message_Event_ID">Enter Event ID</string>
+    <string name="error_message_Username">Enter Username</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+</resources>
